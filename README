@@ -1,0 +1,4 @@
+boost is needed.
+all *.sln and *.vcproj is in VS.NET 2008 format. Maybe can be built with older (or newer) VS.NET.
+see http://tsukimi.agusa.i.is.nagoya-u.ac.jp/~sydney/rainbow/
+
